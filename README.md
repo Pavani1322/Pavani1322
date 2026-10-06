@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Pavani 👋
 
-<!--
-**Pavani1322/Pavani1322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Cyber Security) Student
 
-Here are some ideas to get you started:
+🛡️ Aspiring Cybersecurity Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning Python, Networking & Linux
+
+🚀 Building beginner projects and improving my technical skills
+
+🔐 Interested in Cybersecurity, Networking & Technology
+
+📚 Learning, building and growing one project at a time
