@@ -1,13 +1,18 @@
 # Hi, I'm Pavani 👋
 
-🎓 B.Tech CSE (Cyber Security) Student
+🎓 B.Tech CSE – Cyber Security Student  
+🔐 Aspiring Cybersecurity Analyst  
 
-🛡️ Aspiring Cybersecurity Analyst
+### 🌱 Currently Learning
+- Python
+- Computer Networking
+- Linux
+- Cybersecurity Fundamentals
 
-💻 Currently learning Python, Networking & Linux
+### 💻 What I'm Doing
+Building beginner-friendly projects and continuously improving my technical skills.
 
-🚀 Building beginner projects and improving my technical skills
+### 🎯 Interests
+Cybersecurity • Networking • Linux • Python • Technology
 
-🔐 Interested in Cybersecurity, Networking & Technology
-
-📚 Learning, building and growing one project at a time
+> Learning, building, and growing — one project at a time. 🚀
